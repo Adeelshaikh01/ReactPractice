@@ -1,4 +1,17 @@
+
+*{
+    transition: all 0.3s ease-in;
+}
 .btn{
-    background-color: red;
     padding: 20px;
+}
+
+.btnDark{
+    background-color: black;
+    color: white;
+}
+
+.btnLight{
+    background-color: yellow;
+    color: black;
 }
